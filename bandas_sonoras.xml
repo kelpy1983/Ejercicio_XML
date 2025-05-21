@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coleccion> 
+    <discos>
+        <pelicula> 
+            <titulo>El señor de los anillos</titulo>
+            <director>sjjfjfjf</director>
+        </pelicula>
+        <compositor> CLif </compositor>
+        <año> 1999 </año>
+        <premios> 
+                <premio>BAFTA</premio>
+        </premios>
+        <formato> CD </formato>
+            
+    </discos>
+    <discos>
+        <pelicula> Titanic </pelicula>
+        <compositor> asdf </compositor>
+        <año> 1999 </año>
+        <premio> muchos </premio>
+        <formato> CD </formato>
+            
+    </discos>
+
+</coleccion>

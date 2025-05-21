@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE curso [ 
+<!ELEMENT curso (nombre, descripcion?, (profesor | tutor)+, modulo*)>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT descripcion (#PCDATA)>
+<!ELEMENT profesor (#PCDATA)>
+<!ELEMENT tutor (#PCDATA)>
+<!ELEMENT modulo (titulo, leccion+)>
+<!ELEMENT titulo (#PCDATA)>
+<!ELEMENT leccion (#PCDATA)>
+]>
+<curso> 
+    <nombre>Curso de BBDD</nombre>
+    <descripcion>Creación de base de datos</descripcion>
+    <profesor>Gabriela</profesor>
+    <tutor>Jesús</tutor>
+    <modulo>
+        <titulo>Informatica avanzada</titulo>
+        <leccion>lección 1</leccion>
+    </modulo>
+
+</curso>

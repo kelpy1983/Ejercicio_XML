@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coleccion>
+    <albumes>
+        <album> 
+            <fotografia> 
+                <lugar>Madrid </lugar>
+                <fecha>21-05-2025</fecha>
+                    <hora>12:00</hora>
+                <camara>reflex </camara>
+                <personas>familia </personas>
+                <monumento>Catedral Almudena </monumento>
+            </fotografia>
+            <fotografia> 
+                <lugar>Valencia </lugar>
+                <fecha> 21/05/2025 </fecha>
+                    <hora>12:00</hora>
+                <camara> reflex </camara>
+                <personas> personas </personas>
+                <monumento> Fallas</monumento>
+            </fotografia>
+        </album>
+        <album> 
+            <fotografia> 
+                <lugar>León </lugar>
+                <fecha>21-05-2025</fecha>
+                <camara>analógica</camara>
+                <personas>familia </personas>
+                <monumento>Catedral </monumento>
+            </fotografia>
+            <fotografia> 
+                <lugar>Sevilla </lugar>
+                <fecha> 21/05/2025</fecha>
+                <camara> reflex </camara>
+                <personas> personas </personas>
+                <monumento> Giralda </monumento>
+            </fotografia>
+        </album>
+    </albumes>
+ </coleccion>
